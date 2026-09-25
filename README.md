@@ -13,6 +13,10 @@ Designed and validated a redundant switching architecture implementing various E
 * Static EtherChannel: Manual link aggregation configuration.
 * Redundancy & Loop Prevention: Verified stability with Spanning Tree Protocol (STP).
 
+#### 📄 Device Configurations:
+* [Core Switch (CS_1) Configuration](CS1-config.txt)
+* [Access Switch (AS_1) Configuration](AS1-config.txt)
+
 #### 📊 Topology Diagram:
 ![EtherChannel Topology](etherchannel-topology.png)
 
