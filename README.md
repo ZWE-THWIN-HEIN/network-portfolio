@@ -14,8 +14,8 @@ Designed and validated a redundant switching architecture implementing various E
 * Redundancy & Loop Prevention: Verified stability with Spanning Tree Protocol (STP).
 
 #### 📄 Device Configurations:
-* [Core Switch (CS_1) Configuration](CS1-config.txt)
-* [Access Switch (AS_1) Configuration](AS1-config.txt)
+* [Core Switch (CS_1) Configuration](CS_1-config.txt)
+* [Access Switch (AS_1) Configuration](AS_1-config.txt)
 
 #### 📊 Topology Diagram:
 ![EtherChannel Topology](etherchannel-topology.png)
